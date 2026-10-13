@@ -1,0 +1,6 @@
+Replace the banner on GitHub:
+1. Open your repository and switch to main.
+2. Open assets.
+3. Upload this profile-banner.gif to assets/profile-banner.gif, replacing the old file.
+4. Commit the change. The README path stays the same.
+If GitHub shows the old GIF, press Ctrl+F5 or wait for image caching to refresh.
