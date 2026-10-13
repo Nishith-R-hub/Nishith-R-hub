@@ -172,3 +172,15 @@ Bantakal, Udupi, Karnataka\
 `<i>`{=html}Building practical technology, learning continuously, and
 solving real-world problems through code.`</i>`{=html}
 :::
+<br>
+
+<img src="./assets/header_snake.png" width="100%" alt="Contribution Snake"/>
+<br><br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nishith-R-hub/Nishith-R-hub/Nishith-R-hub/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> Keep contributing! Let's build an epic graph together.
+
+<br>
