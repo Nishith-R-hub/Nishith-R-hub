@@ -1,186 +1,137 @@
-::: {align="center"}
-# Hi, I'm Nishith Poojary 👋
+<p align="center">
+  <img src="./assets/anime-banner.gif" width="100%" alt="Nishith Poojary Cyberpunk Anime Banner"/>
+</p><h1 align="center">Hi, I'm Nishith Poojary 👋</h1><h3 align="center">
+  Computer Engineering Student | Developer | Technology Enthusiast
+</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+real+problems;Exploring+AI%2C+data%2C+and+software+development;Learning+something+new+every+day" alt="Animated typing text"/>
+</p><p align="center">
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Project%20Building-00D9FF?style=for-the-badge" alt="Project Building"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Learning-8A2BE2?style=for-the-badge" alt="Open to Learning"/>
+</p>---
 
-### Computer Science Engineering Student \| Software Development \| Web Applications \| Applied ML
+👨‍💻 About Me
 
-```{=html}
+- 🎓 BE student at Shri Madhwa Vadiraja Institute of Technology and Management.
+- 💡 Interested in software development, data analytics, and practical technology solutions.
+- 🛰️ Working on a research-oriented project involving satellite imagery and vessel-tracking data.
+- 📊 Building projects that combine programming, data, and problem-solving.
+- 🚀 Continuously improving my development skills through projects and hands-on learning.
+- 🎯 Goal: Build useful software and grow as a developer.
+
+---
+
+🛠️ Technical Skills
+
+Programming Languages
+
 <p>
-```
-`<a href="https://github.com/Nishith-R-hub">`{=html}GitHub`</a>`{=html}
-•
-`<a href="https://www.linkedin.com/in/nishith-poojary/">`{=html}LinkedIn`</a>`{=html}
-• `<a href="mailto:rnishith45@gmail.com">`{=html}Email`</a>`{=html}
-```{=html}
-</p>
-```
-:::
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>Tools and Technologies
 
-------------------------------------------------------------------------
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>Areas of Interest
 
-## 👨‍💻 About Me
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analytics-00A98F?style=for-the-badge" alt="Data Analytics"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-0066CC?style=for-the-badge" alt="Remote Sensing"/>
+  <img src="https://img.shields.io/badge/Software%20Development-FF6F00?style=for-the-badge" alt="Software Development"/>
+</p>«Keep only the languages, tools, and technologies you can confidently explain in an interview.»
 
-I'm a final-year **B.E. Computer Science and Engineering** student at
-**Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM),
-Bantakal, Karnataka**, graduating in 2027.
+---
 
-I enjoy building practical software solutions---from web applications
-and cloud-deployed tools to machine-learning pipelines for real-world
-problems. My project experience includes backend development, database
-integration, data analytics, and environmental monitoring.
+🚀 Featured Projects
 
--   🎓 **Education:** B.E. Computer Science and Engineering, SMVITM
-    (2023--2027)
--   📊 **CGPA:** 7.88
--   💻 **Languages:** Python, Java, JavaScript, C, C++
--   🌐 **Focus areas:** Software development, backend/web development,
-    databases, applied machine learning, and data analytics
--   🤝 **Team experience:** Four-member final-year project team
--   🌱 Currently developing an ML-based system to detect and attribute
-    suspected illegal marine bilge dumping.
+🛰️ Illegal Bilge-Dumping Detection via Sentinel-1 SAR + AIS Fusion
 
-## 🛠️ Technical Skills
+Status: In Progress
 
-  -----------------------------------------------------------------------
-  Category                            Skills
-  ----------------------------------- -----------------------------------
-  Programming Languages               Python, Java, JavaScript, C, C++
+A research-oriented project exploring the detection of potential illegal vessel discharges by combining satellite radar imagery with Automatic Identification System (AIS) vessel data.
 
-  Web & Backend                       HTML5, CSS3, React, Flask, REST API
-                                      development, Jinja2
+- Analyses Sentinel-1 SAR imagery to identify suspicious sea-surface slicks.
+- Uses AIS data to investigate nearby vessel activity.
+- Explores environmental information for drift attribution.
+- Aims to improve the reliability of maritime pollution investigations.
 
-  Databases                           MySQL, SQLite, SQL, database
-                                      integration
+Technologies: Python, satellite imagery, SAR, AIS, machine learning, geospatial analysis.
 
-  Machine Learning & Data             Isolation Forest, Random Forest,
-                                      Hugging Face NLP, geospatial data
-                                      processing
+<!-- Replace YOUR-PROJECT-REPO with the actual repository name when available. -->"View Project Repository" (https://github.com/YOUR-USERNAME/YOUR-PROJECT-REPO)
 
-  Cloud & Deployment                  Gunicorn, Render, cloud deployment
+📊 Student Performance and Placement Analytics
 
-  Tools & Version Control             Git, GitHub, VS Code
+An analytics project exploring student performance and placement outcomes through an interactive Power BI dashboard.
 
-  Computer Science Fundamentals       Data Structures and Algorithms,
-                                      OOP, DBMS, Operating Systems,
-                                      Computer Networks, SDLC
-  -----------------------------------------------------------------------
+- Examines placement rates across academic and skill-related factors.
+- Compares outcomes by branch, internships, CGPA, and technical scores.
+- Presents key findings using charts and summary indicators.
 
-## 🚀 Projects
+Technologies: Python, Pandas, CSV, Power BI.
 
-### 1. Illegal Bilge-Dumping Detection via Sentinel-1 SAR + AIS Fusion
+"View Project Repository" (https://github.com/YOUR-USERNAME/student-placement-analytics)
 
-**Tech:** Python, Isolation Forest, Random Forest, Sentinel-1 SAR, AIS,
-ERA5, CMEMS\
-**Status:** Ongoing final-year project · Four-member team ·
-2026--Present
+🌐 Student Feedback Website
 
--   Developing a data-fusion pipeline combining Sentinel-1 Synthetic
-    Aperture Radar (SAR) imagery with Automatic Identification System
-    (AIS) vessel data to detect and attribute suspected illegal marine
-    bilge dumping.
--   Building an AIS candidate-filtering and anomaly-detection module
-    using a hybrid Isolation Forest and Random Forest approach to flag
-    suspicious vessel trajectories.
--   Integrating ERA5 wind and CMEMS ocean-current data for bidirectional
-    drift attribution and a composite confidence score.
--   **Evaluation targets:** Mean IoU ≥ 0.85 and F1-score ≥ 0.90. These
-    are project targets, not achieved results.
+A web-based project designed to collect student feedback about teachers through an online form.
 
-### 2. Cloud-Deployed Student Grade Calculator
+- Provides a structured feedback submission interface.
+- Organizes information for easier review and analysis.
+- Focuses on usability and a straightforward user experience.
 
-**Tech:** Python, Flask, Jinja2, Gunicorn, Render, ReportLab
+Technologies: Replace with the actual languages, frameworks, and database used.
 
--   Built a Flask web application that calculates and dynamically
-    displays student grades using Jinja2 templates.
--   Deployed the application using Gunicorn and Render as part of Cloud
-    Computing coursework.
--   Implemented automated, multi-page PDF report generation for academic
-    results using ReportLab.
+"View Project Repository" (https://github.com/YOUR-USERNAME/YOUR-FEEDBACK-REPO)
 
-### 3. FlashMind --- AI-Powered Flashcard & Quiz Generator
+---
 
-**Tech:** Python, Flask, SQLite, Hugging Face NLP
+🎓 Education
 
--   Developed a full-stack web application that generates study
-    flashcards and interactive quizzes from text-based study material
-    using Hugging Face NLP models.
--   Integrated SQLite for persistent storage of generated content,
-    flashcards, quizzes, and user sessions.
+Bachelor of Engineering
 
-### 4. EcoTrace --- Community Waste Accountability Platform
+Shri Madhwa Vadiraja Institute of Technology and Management, Bantakal, Karnataka
 
-**Tech:** Python, SMS/Call-Based System\
-**Event:** Srishti Innovation Exchange Hackathon · *Tech for Sustainable
-Impact*
+- Graduation year: 2027
+- CGPA: 7.88/10 (update if your latest result differs)
 
--   Designed a low-infrastructure civic reporting platform that enables
-    waste-accountability reporting through SMS and phone calls,
-    including in communities without smartphones or IoT hardware.
--   Designed core workflows including SMS/voice reporting, an eco-points
-    reward engine, and community leaderboards.
--   Developed and presented the solution as a hackathon submission.
+---
 
-### 5. Student Placement Analytics
-
-**Tech:** Python, SQL, Power BI
-
--   Cleaned and prepared student placement data, handled missing values,
-    and defined key performance indicators.
--   Built a Power BI dashboard to present placement trends and analysis.
-
-### 6. Student Feedback Website
-
-**Tech:** HTML, CSS, JavaScript, backend and database integration
-
--   Built a web application that allows students to submit feedback
-    about teachers.
--   Worked on the user-facing form and supporting backend/database
-    functionality.
-
-### 7. Wateroo --- IoT Water Quality Monitoring Device
-
-**Tech:** ESP32, Embedded C
-
--   Programmed an ESP32-based embedded device for real-time
-    water-quality sensing, monitoring, and parameter reporting.
-
-## 🎓 Education
-
-**Bachelor of Engineering (B.E.) --- Computer Science and Engineering**\
-Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM),
-Bantakal, Udupi, Karnataka\
-**2023--2027** · **CGPA: 7.88**
-
-## 🏆 Hackathon & Project Experience
-
--   Participated in the **Srishti Innovation Exchange**, developing
-    **EcoTrace** under the *Tech for Sustainable Impact* theme.
--   Collaborating on a four-member final-year project involving
-    satellite imagery, vessel-tracking data, machine learning, and
-    oceanographic datasets.
-
-## 📫 Connect With Me
-
--   **Email:** <rnishith45@gmail.com>
--   **LinkedIn:**
-    [linkedin.com/in/nishith-poojary](https://www.linkedin.com/in/nishith-poojary/)
--   **GitHub:**
-    [github.com/Nishith-R-hub](https://github.com/Nishith-R-hub)
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-`<i>`{=html}Building practical technology, learning continuously, and
-solving real-world problems through code.`</i>`{=html}
-:::
-<br>
-
-<img src="./assets/header_snake.png" width="100%" alt="Contribution Snake"/>
-<br><br>
+📈 GitHub Statistics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Nishith-R-hub/Nishith-R-hub/Nishith-R-hub/output/github-contribution-grid-snake-dark.svg" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages"/>
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>---
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>---
+
+🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p><p align="center">
+  <i>"Build with curiosity. Learn through projects. Improve with every commit."</i>
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer" alt="Decorative footer"/>
 </p>
-
-> Keep contributing! Let's build an epic graph together.
-
-<br>
