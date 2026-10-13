@@ -1,1 +1,24 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06101c"/>
+      <stop offset="0.52" stop-color="#071a2a"/>
+      <stop offset="1" stop-color="#06101c"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#42ff9a"/>
+      <stop offset="0.55" stop-color="#00d9ff"/>
+      <stop offset="1" stop-color="#367dff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.1" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="996" height="52" rx="5" fill="url(#bg)" stroke="#1a614e" stroke-width="1.2"/>
+  <path d="M12 14 V8 H27 M973 8 H988 V14 M12 42 V48 H27 M973 48 H988 V42" fill="none" stroke="url(#line)" stroke-width="1.4"/>
+  <path d="M30 28 H46 M954 28 H970" stroke="#1b6b68" stroke-width="1"/>
+  <text x="31" y="33" font-family="Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#62ff9b" filter="url(#glow)">›_ ABOUT ME</text>
+  <text x="790" y="32" font-family="Consolas, 'Courier New', monospace" font-size="10" fill="#257e82">NISHITH-R-HUB // PROFILE</text>
+  <path d="M500 46 H820" stroke="#0e3547" stroke-width="1"/>
+</svg>
