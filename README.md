@@ -8,11 +8,11 @@
   <a href="https://github.com/Nishith-R-hub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/nishith-poojary-51278028b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:rnishith45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>---
 
@@ -84,7 +84,7 @@ A web-based project designed to collect student feedback about teachers through 
 - Focuses on usability and straightforward data collection.
 - Supports organised collection of student responses.
 
-Technologies: Update this section with the actual languages, frameworks, and database used in your project.
+Technologies: Update this section with the actual languages, frameworks, and database used.
 
 ---
 
@@ -96,7 +96,6 @@ Shri Madhwa Vadiraja Institute of Technology and Management
 Bantakal, Karnataka, India
 
 - Graduation Year: 2027
-- CGPA: 7.88/10
 
 ---
 
@@ -121,11 +120,11 @@ Bantakal, Karnataka, India
   <a href="https://github.com/Nishith-R-hub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
+  <a href="https://www.linkedin.com/in/nishith-poojary-51278028b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
   <a href="mailto:rnishith45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
 </p><p align="center">
   <i>"Build with curiosity. Learn through projects. Improve with every commit."</i>
