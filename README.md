@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="./assets/anime-banner.gif" width="100%" alt="Nishith Poojary Anime Cyberpunk Banner"/>
+  <img src="./assets/anime-banner.gif" width="100%" alt="Nishith Poojary Cyberpunk Anime Banner"/>
 </p><h1 align="center">Hi, I'm Nishith Poojary 👋</h1><h3 align="center">
   Computer Engineering Student | Developer | Technology Enthusiast
 </h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+real+problems;Exploring+software+development+and+data+analytics;Learning+something+new+every+day" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Projects+That+Solve+Real+Problems;Exploring+Software+Development+and+Data+Analytics;Learning+Something+New+Every+Day" alt="Animated introduction"/>
 </p><p align="center">
   <a href="https://github.com/Nishith-R-hub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/nishith-poojary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:rnishith45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>---
 
 👨‍💻 About Me
 
-- 🎓 BE student at Shri Madhwa Vadiraja Institute of Technology and Management, Bantakal.
+- 🎓 BE student at Shri Madhwa Vadiraja Institute of Technology and Management, Bantakal, Karnataka.
 - 💻 Interested in software development, programming, and data analytics.
 - 🛰️ Working on a research-oriented project involving satellite imagery and vessel-tracking data.
 - 📊 Building projects that combine technology, data, and problem-solving.
-- 🚀 Focused on improving my technical skills through practical projects.
+- 🚀 Improving my technical skills through hands-on projects.
 - 🎯 Aspiring to become a skilled software developer.
 
 ---
@@ -40,7 +40,7 @@ Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>Areas of Interest
 
@@ -60,8 +60,8 @@ Status: In Progress
 A research-oriented project exploring the detection of potential illegal vessel discharges by combining satellite radar imagery with vessel-tracking information.
 
 - Analyses Sentinel-1 SAR imagery to identify suspicious sea-surface slicks.
-- Uses AIS data to investigate nearby vessel activity.
-- Explores environmental data for drift attribution.
+- Uses Automatic Identification System (AIS) data to investigate nearby vessel activity.
+- Explores environmental data to support drift attribution.
 - Aims to support maritime pollution investigation and accountability.
 
 Technologies: Python, Sentinel-1 SAR, AIS, machine learning, geospatial analysis.
@@ -70,7 +70,7 @@ Technologies: Python, Sentinel-1 SAR, AIS, machine learning, geospatial analysis
 
 An analytics project that examines student performance and placement outcomes through an interactive Power BI dashboard.
 
-- Analyses placement outcomes across different academic and skill-related factors.
+- Analyses placement outcomes across academic and skill-related factors.
 - Compares placement rates by branch, internship, CGPA, and technical scores.
 - Presents insights through interactive visualisations and summary metrics.
 
@@ -84,7 +84,7 @@ A web-based project designed to collect student feedback about teachers through 
 - Focuses on usability and straightforward data collection.
 - Supports organised collection of student responses.
 
-Technologies: Add the actual languages, frameworks, and database used in your implementation.
+Technologies: Update this section with the actual languages, frameworks, and database used in your project.
 
 ---
 
@@ -95,7 +95,7 @@ Bachelor of Engineering
 Shri Madhwa Vadiraja Institute of Technology and Management
 Bantakal, Karnataka, India
 
-- Graduation year: 2027
+- Graduation Year: 2027
 - CGPA: 7.88/10
 
 ---
@@ -112,7 +112,7 @@ Bantakal, Karnataka, India
 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nishith-R-hub/Nishith-R-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Nishith-R-hub/Nishith-R-hub/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
 </p>---
 
 🤝 Connect With Me
@@ -121,14 +121,14 @@ Bantakal, Karnataka, India
   <a href="https://github.com/Nishith-R-hub">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
-  <a href="https://www.linkedin.com/in/nishith-poojary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-  </a>
   <a href="mailto:rnishith45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
 </p><p align="center">
-  <i>Build with curiosity. Learn through projects. Improve with every commit.</i>
+  <i>"Build with curiosity. Learn through projects. Improve with every commit."</i>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=100&section=footer" alt="Neon gradient footer"/>
 </p>
