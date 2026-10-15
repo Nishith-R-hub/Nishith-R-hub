@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06101c"/>
+      <stop offset="0.5" stop-color="#0d1f3c"/>
+      <stop offset="1" stop-color="#06101c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00d9ff"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#ff4bd8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="998" height="54" rx="5" fill="url(#bg)" stroke="#162d50" stroke-width="1"/>
+  <path d="M12 14 V8 H27 M973 8 H988 V14 M12 42 V48 H27 M973 48 H988 V42" fill="none" stroke="url(#accent)" stroke-width="1.2"/>
+  <line x1="50" y1="28" x2="62" y2="28" stroke="#1a4a6e" stroke-width="1"/>
+  <line x1="940" y1="28" x2="952" y2="28" stroke="#1a4a6e" stroke-width="1"/>
+  <text x="35" y="33" font-family="'Segoe UI', 'Trebuchet MS', Arial, sans-serif" font-size="17" font-weight="700" fill="#00e5ff" filter="url(#glow)">✦ GITHUB ANALYTICS</text>
+  <text x="780" y="33" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#3a6b8c">NISHITH-R-HUB // PROFILE</text>
+  <line x1="500" y1="49" x2="820" y2="49" stroke="#0e2847" stroke-width="0.8"/>
+  <circle cx="497" cy="49" r="1.5" fill="#00d9ff" opacity="0.5"/>
+  <circle cx="823" cy="49" r="1.5" fill="#8b5cf6" opacity="0.5"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130">
+  <defs>
+    <linearGradient id="textGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ff4bd8"/>
+    </linearGradient>
+    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="2" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="1000" height="130" fill="#06101c"/>
+  
+  <!-- Cyber HUD framing lines -->
+  <line x1="80" y1="16" x2="920" y2="16" stroke="#0e2847" stroke-width="1"/>
+  <line x1="80" y1="114" x2="920" y2="114" stroke="#0e2847" stroke-width="1"/>
+  <line x1="80" y1="16" x2="80" y2="26" stroke="#0e2847" stroke-width="2"/>
+  <line x1="920" y1="16" x2="920" y2="26" stroke="#0e2847" stroke-width="2"/>
+  <line x1="80" y1="114" x2="80" y2="104" stroke="#0e2847" stroke-width="2"/>
+  <line x1="920" y1="114" x2="920" y2="104" stroke="#0e2847" stroke-width="2"/>
+  
+  <!-- Accent corner dots -->
+  <circle cx="80" cy="16" r="2.5" fill="#00e5ff" opacity="0.6"/>
+  <circle cx="920" cy="16" r="2.5" fill="#ff4bd8" opacity="0.6"/>
+  <circle cx="80" cy="114" r="2.5" fill="#ff4bd8" opacity="0.6"/>
+  <circle cx="920" cy="114" r="2.5" fill="#00e5ff" opacity="0.6"/>
+  
+  <!-- Main name text with electric neon flicker animation -->
+  <text x="500" y="78" text-anchor="middle" font-family="'Agency FB', 'Orbitron', 'Skyra', 'Trebuchet MS', sans-serif" font-size="64" font-weight="900" letter-spacing="8" fill="url(#textGrad)" filter="url(#neonGlow)">
+    NISHITH POOJARY
+    <animate attributeName="opacity" 
+      values="0.08; 0.08; 0.35; 0.08; 0.75; 0.20; 0.90; 0.45; 1.0; 0.98; 1.0; 0.98; 1.0; 0.65; 0.95; 1.0; 0.40; 0.65; 0.15; 0.08; 0.08" 
+      keyTimes="0; 0.13; 0.15; 0.17; 0.20; 0.22; 0.25; 0.27; 0.30; 0.50; 0.60; 0.70; 0.75; 0.78; 0.82; 0.85; 0.88; 0.90; 0.93; 0.96; 1" 
+      dur="6s" repeatCount="indefinite"/>
+  </text>
+</svg>
